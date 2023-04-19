@@ -17,6 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Conexión a cubos dinámicos de la DGIS de la Secretaría de Salud &lpar;México&rpar;](http://blog.jjsantoso.com/dgis-conexion/)
+- [Simbología y mapas coropléticos con PyQGIS](http://blog.jjsantoso.com/pyqgis-mapa-coropletico/)
+- [Integración de PyQGIS con Jupyter Lab usando Anaconda](http://blog.jjsantoso.com/pyqgis-anaconda/)
+- [Introducción a PyQGIS &lpar;Python + QGIS&rpar;](http://blog.jjsantoso.com/intro-pyqgis/)
+- [Mapas de puntos con Python](http://blog.jjsantoso.com/mapas-distribucion-puntos/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
