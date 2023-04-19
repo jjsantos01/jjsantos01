@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jjsantoso" target="blank"><img src="https://img.shields.io/twitter/follow/jjsantoso?logo=twitter&style=for-the-badge" alt="jjsantoso" /></a> </p>
 
-- 👨‍💻 Some of my projects are available at [my personal page](https://www.jjsantoso.com/proyectos) 
+- 👨‍💻 Some of my projects are available at [my personal page](https://www.jjsantoso.com/proyectos)
 
 -  💻 I like to publish my personal projects code in [Gist](https://gist.github.com/jjsantos01)
 
@@ -15,9 +15,13 @@
 
 - 📄 Know about my experiences in my [CV](https://www.jjsantoso.com/cv)
 
-### Blogs posts
+### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+### StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
