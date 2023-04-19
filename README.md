@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Juan!</h1>
-<h3 align="center">I am an economist and data scientist passionate about data analysis and visualization.</h3>
+<h3 align="center">I am an economist and data scientist passionate about data analysis, visualization and quantitative methods.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjsantos01&label=Profile%20views&color=0e75b6&style=flat" alt="jjsantos01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jjsantoso" target="blank"><img src="https://img.shields.io/twitter/follow/jjsantoso?logo=twitter&style=for-the-badge" alt="jjsantoso" /></a> </p>
 
-- 👨‍💻 Some of my projects are available at [https://www.jjsantoso.com/proyectos](https://www.jjsantoso.com/proyectos)
+- 👨‍💻 Some of my projects are available at [my personal page](https://www.jjsantoso.com/proyectos) 
 
-- 📝 Sometimes I write articles on [https://blog.jjsantoso.com/](https://blog.jjsantoso.com/)
+-  💻 I like to publish my personal projects code in [Gist](https://gist.github.com/jjsantos01)
+
+- 📝 Sometimes I write articles on [my blog](https://blog.jjsantoso.com/)
 
 - 💬 Ask me about **Python, data wrangling, dataviz**
 
-- 📄 Know about my experiences [https://www.jjsantoso.com/cv](https://www.jjsantoso.com/cv)
+- 📄 Know about my experiences in my [CV](https://www.jjsantoso.com/cv)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
