@@ -26,7 +26,7 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by jjsantoso for will be plot shown in VS code run from AWS Studio Lab](https://stackoverflow.com/questions/76132342/will-be-plot-shown-in-vs-code-run-from-aws-studio-lab/76133143#76133143)
+- [Answer by jjsantoso for will a plot shown in VS code run from AWS Studio Lab](https://stackoverflow.com/questions/76132342/will-a-plot-shown-in-vs-code-run-from-aws-studio-lab/76133143#76133143)
 - [Answer by jjsantoso for Pandas data masking where the conditions come from other variables](https://stackoverflow.com/questions/75797073/pandas-data-masking-where-the-conditions-come-from-other-variables/75797265#75797265)
 - [Answer by jjsantoso for Is there a way to return value &lpar;date&rpar; in dataframe from multiple column?](https://stackoverflow.com/questions/75479169/is-there-a-way-to-return-value-date-in-dataframe-from-multiple-column/75479608#75479608)
 - [Answer by jjsantoso for for loop through multiple items based on a dataframe](https://stackoverflow.com/questions/75252625/for-loop-through-multiple-items-based-on-a-dataframe/75253082#75253082)
