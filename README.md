@@ -9,14 +9,11 @@
 <p align="left"> <a href="https://twitter.com/jjsantoso" target="blank"><img src="https://img.shields.io/twitter/follow/jjsantoso?logo=twitter&style=for-the-badge" alt="jjsantoso" /></a> </p>
 
 - 👨‍💻 Some of my projects are available at [my personal page](https://www.jjsantoso.com/proyectos)
-
 -  💻 I like to publish my personal projects code in [Gist](https://gist.github.com/jjsantos01)
-
 - 📝 Sometimes I write articles on [my blog](https://blog.jjsantoso.com/)
-
 - 💬 Ask me about **Python, data wrangling, dataviz**
-
 - 📄 Know about my experiences in my [CV](https://www.jjsantoso.com/cv)
+- Read my list of [resources for data science and programming](https://jjsantos.notion.site/a9fa226b81fc405aae944282fd589bfe?v=8fa8b320b8ca4fddaf0e2df084e924f5&pvs=4)
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
