@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Juan!</h1>
+s<h1 align="center">Hi 👋, I'm Juan!</h1>
 <h3 align="center">
-  <p> I am an economist and data scientist passionate about data analysis, visualization and quantitative methods. </p>
-  <p> I also have experience as junior backend dev with Python (Django, Flask, FastAPI) </p>
+  <p> I am an economist and data scientist passionate about data analysis, visualization, and quantitative methods. </p>
+  <p> I have experience as junior backend dev with Python (Django, Flask, FastAPI) and I'm learning Ruby on Rails</p>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjsantos01&label=Profile%20views&color=0e75b6&style=flat" alt="jjsantos01" /> </p>
