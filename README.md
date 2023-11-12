@@ -26,11 +26,11 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by jjsantoso for Resample Pandas DataFrame on column header values &lpar;not datetime&rpar;](https://stackoverflow.com/questions/77439385/resample-pandas-dataframe-on-column-header-values-not-datetime/77440139#77440139)
 - [Answer by jjsantoso for Convert panda dataframe into json object with groupby](https://stackoverflow.com/questions/77241271/convert-panda-dataframe-into-json-object-with-groupby/77241437#77241437)
 - [Answer by jjsantoso for How to make hbars in subplots with shared properties and no delimiter?](https://stackoverflow.com/questions/77240508/how-to-make-hbars-in-subplots-with-shared-properties-and-no-delimiter/77241248#77241248)
 - [Answer by jjsantoso for will a plot shown in VS code run from AWS Studio Lab](https://stackoverflow.com/questions/76132342/will-a-plot-shown-in-vs-code-run-from-aws-studio-lab/76133143#76133143)
 - [Answer by jjsantoso for Pandas data masking where the conditions come from other variables](https://stackoverflow.com/questions/75797073/pandas-data-masking-where-the-conditions-come-from-other-variables/75797265#75797265)
-- [Answer by jjsantoso for Is there a way to return value &lpar;date&rpar; in dataframe from multiple column?](https://stackoverflow.com/questions/75479169/is-there-a-way-to-return-value-date-in-dataframe-from-multiple-column/75479608#75479608)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
