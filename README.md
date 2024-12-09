@@ -47,6 +47,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjsantos01&show_icons=true&locale=en&layout=compact" alt="jjsantos01" /></p>
 
 ### [My latest Gists](https://gist.github.com/jjsantos01)
-<p>
-  <img src="https://gists-readme.yizack.com/api?user=jjsantos01&title=%20&n=10">
-</p>
+[![gists-readme](https://gists-readme.yizack.com/api?user=jjsantos01&title=%20&n=10)](https://gist.github.com/jjsantos01)
